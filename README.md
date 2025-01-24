@@ -13,8 +13,8 @@ The notes are made from an exhaustive and introductory perspective, and hopefull
 ### Notes
 Put links to the notes here
 
-- [Introduction](./_posts/2025-20-01-notes_1.md)
-- [Https](./_posts/2025-22-01-notes_2.md)
+- [Introduction](./_posts/2025-01-20-notes_1.md)
+- [Https](./_posts/2025-01-22-notes_2.md)
 
 
 ### Tutorials
