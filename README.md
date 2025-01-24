@@ -15,6 +15,7 @@ Put links to the notes here
 
 - [Introduction](./_posts/2025-01-20-notes_1.md)
 - [Https](./_posts/2025-01-22-notes_2.md)
+- [Email and DNS](./_posts/2025-01-24-notes-3.md)
 
 
 ### Tutorials
