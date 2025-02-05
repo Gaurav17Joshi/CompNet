@@ -22,6 +22,10 @@ Put links to the notes here
 
 Will be added
 
+- Tutorial 1
+- Tutorial 2
+- Tutorial 3
+- [Tutorial 4](./_posts/2025-01-27-tutorial_4.md)
 
 ## References
 
